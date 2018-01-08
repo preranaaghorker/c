@@ -2,5 +2,5 @@
 # sample changes
 void main()
 {  
-  printf("\n HELLO");
+  printf("\n HELLO WORLD");
 }
